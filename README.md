@@ -24,7 +24,7 @@ My role was **mentor and reviewer**: teaching web fundamentals, planning the str
 
 ## 👥 Credits
 
-- **Developer:** [Student Name], junior mentee
+- **Developer:** Bahaddin, junior mentee
 - **Mentor, UI/UX direction & code review:** Murad Bayramov
 
 ## 🚀 Run Locally
